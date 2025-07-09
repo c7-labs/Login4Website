@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.login4website.com/sitemap.xml
